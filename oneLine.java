@@ -1,0 +1,1 @@
+public class oneLine { private int m_stuff; public oneLine(int num){m_stuff = num;} public void add() {m_stuff++;} public String toString() { return "Num: " + m_stuff; } }
