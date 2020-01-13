@@ -15,6 +15,11 @@ public class Tester
             g.Start();
             if (g.getBalances()[0] <= 0)
             {
+                System.out.println("Player is out of cash!\nThanks for playing!");
+                break;
+            }
+            else if (g.getBalances()[1] <= 0)
+            {
                 System.out.println("Dealer is out of cash!\nThanks for playing!");
                 break;
             }

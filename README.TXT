@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Console BlackJack Java Game
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: BlackJack
+PURPOSE OF PROJECT: Simple BlackJack game playable in the console
+VERSION or DATE: 1/10/2020
+HOW TO START THIS PROJECT: Run the main method of the Tester class
+AUTHORS: gcep650
+USER INSTRUCTIONS: ignore oneLine

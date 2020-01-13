@@ -157,8 +157,8 @@ public class Game
     public double[] getBalances()
     {
         double[] balances = new double[2];
-        balances[0] = m_dealer.balance();
-        balances[1] = m_player.balance();
+        balances[1] = m_dealer.balance();
+        balances[0] = m_player.balance();
         return balances;
     }
 
